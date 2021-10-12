@@ -5,3 +5,4 @@ metadata:
 data:
   wordpress_db_name: wordpressdb
   mysql_database_url: mysql-service
+
