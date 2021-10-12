@@ -3,6 +3,6 @@ kind: ConfigMap
 metadata:
   name: wordpress-configmap
 data:
-  wordpress_db_name: wordpressdb
+  wordpress_db_name: mysql
   mysql_database_url: mysql-service
 
